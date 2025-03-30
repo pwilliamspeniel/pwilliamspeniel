@@ -2,7 +2,7 @@
 <h3 align="center">PhD Student in Civil Engineering | Graduate Assistant at NDSU</h3>
 
 <p align="center">
-  🔍 <em>Research Interests: AI, GIS, Computer Vision, and Transportation Engineering in the context of infrastructure monitoring, construction management, and smart transportation systems. Focus on integrating these technologies to improve road condition assessment, optimize construction processes, and enhance the sustainability and safety of infrastructure systems.</em>  
+  🔍 <em>Research Interests: I focus on integrating Artificial Intelligence (AI), Geographic Information Systems (GIS), Computer Vision, and Transportation Engineering to develop multimodal models for transportation applications.</em>  
 </p>
 
 ---
