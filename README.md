@@ -2,7 +2,7 @@
 <h3 align="center">PhD Student in Civil Engineering | Graduate Assistant at NDSU</h3>
 
 <p align="center">
-  🔍 <em>Research Interests: My research centers on leveraging Artificial Intelligence (AI), Geographic Information Systems (GIS), and Computer Vision to develop multimodal models that address complex problems in transportation engineering..</em>  
+  🔍 <em>🔍 Research Interests: Improving concrete pavement performance prediction using AI, GIS, and mechanistic-empirical models to analyze slab warping, curling, and cracking.</em>  
 </p>
 
 ---
